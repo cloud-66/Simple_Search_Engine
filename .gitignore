@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Problems/Companies/out/
+/Problems/Companies/out/production/classes/
+/Problems/Count elements of an array in another one/out/
+/Problems/Count elements of an array in another one/out/production/classes/
+/Problems/Creating a map/out/
+/Problems/Creating a map/out/production/classes/
+/Problems/Creating a set/out/
+/Problems/Creating a set/out/production/classes/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/Greek letters/out/
+/Problems/Greek letters/out/production/classes/
+/Problems/Modifying a map/out/
+/Problems/Modifying a map/out/production/classes/
+/Problems/Output the list's elements/out/
+/Problems/Output the list's elements/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Reversing input numbers/out/
+/Problems/Reversing input numbers/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/The index of the K occurrence/out/
+/Problems/The index of the K occurrence/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
